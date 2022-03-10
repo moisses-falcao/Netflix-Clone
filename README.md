@@ -8,6 +8,6 @@ Aplicativo que desenvolvi em Kotlin, clonando funções básicas da Netflix. Uma
   <img height="440em" src="https://user-images.githubusercontent.com/95506261/157759769-5c05ab3e-51a2-48f2-983f-0d9ee4eee49b.jpeg"/>
   <img height="440em" src="https://user-images.githubusercontent.com/95506261/157759782-bdcb0ead-3226-4ddc-b9e6-999afe31a00e.jpeg"/>
   <img height="440em" src="https://user-images.githubusercontent.com/95506261/157759806-4652168c-5436-4c25-9b3f-131a495e7af8.jpeg"/>
-  <img height="440em" src="https://user-images.githubusercontent.com/95506261/157761168-c915ea12-cb0b-41f9-9ef1-afbb75affa40.jpeg"/>
+  <img height="360em" src="https://user-images.githubusercontent.com/95506261/157761168-c915ea12-cb0b-41f9-9ef1-afbb75affa40.jpeg"/>
   
 </div>
